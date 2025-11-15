@@ -3,6 +3,7 @@ import Home from "./pages/Home.jsx";
 import Analyse from "./pages/Analyse.jsx";
 import Leaderboard from "./pages/Leaderboard.jsx";
 import SongLeaderboard from "./pages/SongLeaderboard.jsx";
+import Profiles from "./pages/Profiles.jsx"; // ⬅ nieuw
 import { styles as S } from "./styles.js";
 
 export default function App() {
@@ -11,19 +12,27 @@ export default function App() {
     return Number.isFinite(saved) ? saved : 0;
   });
 
-  // 🧠 Titel automatisch aanpassen
+  // Titel automatisch aanpassen
   useEffect(() => {
     const titles = [
       "Spleetify — Home",
       "Spleetify — Laatste Blend",
       "Spleetify — Top bijdragers",
       "Spleetify — Top liedjes",
+      "Spleetify — Profielen", // ⬅ nieuw
     ];
     document.title = titles[page] || "Spotify Blend";
     localStorage.setItem("blend_tab", String(page));
   }, [page]);
 
-  const tabs = ["Home", "Laatste Blend", "Top bijdragers", "Top bijdragers"];
+  // Tabs bovenin (tekst van de knoppen)
+  const tabs = [
+    "Home",
+    "Laatste Blend",
+    "Top bijdragers",
+    "Top liedjes",
+    "Profielen", // ⬅ nieuw
+  ];
 
   return (
     <div style={S.root}>
@@ -61,7 +70,12 @@ export default function App() {
         {page === 1 && <Analyse goHome={() => setPage(0)} />}
         {page === 2 && <Leaderboard />}
         {page === 3 && <SongLeaderboard />}
-        {page >= 4 && <div style={{ color: "#b3b3b3" }}>Pagina {page} — nog leeg.</div>}
+        {page === 4 && <Profiles />} {/* ⬅ nieuw */}
+        {page >= 5 && (
+          <div style={{ color: "#b3b3b3" }}>
+            Pagina {page} — nog leeg.
+          </div>
+        )}
       </main>
     </div>
   );

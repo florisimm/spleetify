@@ -1,15 +1,12 @@
-SPOTIFY BLEND ANALYSE
+SPOTIFY BLEND ANALYSE (INSANE MODE + CLEANUP + FEATURES)
 ============================================================
 Datum: 2025-11-12
-Totaal aantal nummers: 50
 
-SAMENVATTING:
-----------------------------------------
+SAMENVATTING PER PERSOON:
 tomasog.05: 18 nummers
 florissimmelink: 12 nummers
 theo.hendriksen: 11 nummers
 Niels: 9 nummers
-----------------------------------------
 
 ALLE NUMMERS:
 ============================================================
@@ -17,250 +14,300 @@ ALLE NUMMERS:
  1. You Get What You Give
     Artiest: New Radicals
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851dfdedd4553b40bbaab342dae
 
  2. Go Your Own Way - 2004 Remaster
     Artiest: Fleetwood Mac
     Toegevoegd door: Niels
+    Genre: classic rock, yacht rock
     Album Cover: https://i.scdn.co/image/ab67616d0000485157df7ce0eac715cf70e519a7
 
  3. Don't Stop Believin' (2022 Remaster)
     Artiest: Journey
     Toegevoegd door: Niels
+    Genre: aor, classic rock
     Album Cover: https://i.scdn.co/image/ab67616d0000485123290120a609a65e14cfe018
 
  4. I'm On Fire
     Artiest: Bruce Springsteen
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978
 
  5. Headlock
     Artiest: Imogen Heap
     Toegevoegd door: florissimmelink
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d000048510cabafb8b01b956fae313c57
 
  6. Glue Song
     Artiest: beabadoobee
     Toegevoegd door: theo.hendriksen
+    Genre: bedroom pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851e3862aeefcb2f0860ef017e4
 
  7. I Don't Know - Extended Mix
     Artiest: Erika
     Toegevoegd door: tomasog.05
+    Genre: italo dance, eurodance
     Album Cover: https://i.scdn.co/image/ab67616d0000485114586b47eb9ebec3cf898c98
 
  8. Annie
     Artiest: Milolaathetlukken
     Toegevoegd door: Niels
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d000048519fbe1a7ef5f61119960c17e4
 
  9. Beneden
     Artiest: Bizzey
     Toegevoegd door: theo.hendriksen
+    Genre: moombahton
     Album Cover: https://i.scdn.co/image/ab67616d000048519beda475c5604d16db9e9976
 
 10. 1000 vragen
     Artiest: Sander Kwarten
     Toegevoegd door: tomasog.05
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851b9e987234a16a4a65f2e3d87
 
 11. 3D
     Artiest: Antoon
     Toegevoegd door: florissimmelink
+    Genre: nederpop, hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851dfd74b909abc46daac88c394
 
 12. Matcha Coco
     Artiest: Noano
     Toegevoegd door: Niels
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d000048517a2451d4ff8336936f66b865
 
 13. Door Tot De Kater Komt
     Artiest: Robert van Hemert
     Toegevoegd door: tomasog.05
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d000048519e39b1fe40c60722975e482b
 
 14. Ontzettond
     Artiest: DavineP
     Toegevoegd door: florissimmelink
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d0000485139f38878ade71f1a0d64d292
 
 15. Overdosis
     Artiest: Bilal Wahib
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851f24bec00195d598bf172eed7
 
 16. Hoe Zou Het Zijn Geweest
     Artiest: Yves Berendse
     Toegevoegd door: theo.hendriksen
+    Genre: hollands, nederpop
     Album Cover: https://i.scdn.co/image/ab67616d00004851ffe9a0b615f261e165044fae
 
 17. Every Breath You Take
     Artiest: The Police
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851c8e97cafeb2acb85b21a777e
 
 18. Somewhere Only We Know
     Artiest: Keane
     Toegevoegd door: florissimmelink
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851045d0a38105fbe7bde43c490
 
 19. Be My Baby
     Artiest: The Ronettes
     Toegevoegd door: theo.hendriksen
+    Genre: christmas
     Album Cover: https://i.scdn.co/image/ab67616d00004851b298efc29df3b69ec3f0d675
 
 20. We Are Young (feat. Janelle Monáe)
     Artiest: fun.
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851a036e1724bc7f2bab15cfda8
 
 21. Blue Berries
     Artiest: Sem Jacobs
     Toegevoegd door: Niels
+    Genre: house, tech house
     Album Cover: https://i.scdn.co/image/ab67616d00004851f37b429e0e36c19a3ee3db23
 
 22. Who do u?
     Artiest: JACK MARLOW
     Toegevoegd door: Niels
+    Genre: rally house, uk garage
     Album Cover: https://i.scdn.co/image/ab67616d0000485150278aeaacd4286cf4c6cdcb
 
 23. Get Stupid
     Artiest: Julian Fijma
     Toegevoegd door: florissimmelink
+    Genre: tech house, house
     Album Cover: https://i.scdn.co/image/ab67616d00004851549d6de617a7b7c1186d3283
 
 24. Afraid To Feel
     Artiest: LF SYSTEM
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851ced808ef1567eaf901041438
 
 25. Dancing In the Dark
     Artiest: Bruce Springsteen
     Toegevoegd door: florissimmelink
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851a7865e686c36a4adda6c9978
 
 26. (Sittin' On) the Dock of the Bay
     Artiest: Otis Redding
     Toegevoegd door: florissimmelink
+    Genre: soul, motown
     Album Cover: https://i.scdn.co/image/ab67616d000048510acddc8ccf8d14858fbeddf5
 
 27. Sultans Of Swing
     Artiest: Dire Straits
     Toegevoegd door: tomasog.05
+    Genre: classic rock
     Album Cover: https://i.scdn.co/image/ab67616d00004851b49d49cc95564aede7998bb8
 
 28. Take A Chance On Me
     Artiest: ABBA
     Toegevoegd door: theo.hendriksen
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d000048516f705bef76c1d861c4d51d8c
 
 29. Als Je Lacht
     Artiest: Jan Smit
     Toegevoegd door: Niels
+    Genre: hollands, nederpop
     Album Cover: https://i.scdn.co/image/ab67616d000048519eada168548571df3bd0d680
 
 30. Deze Nacht (All Night Long)
     Artiest: Thijs Boontjes
     Toegevoegd door: tomasog.05
+    Genre: nederpop, hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851dcb1f6e9cafb64d09ed9afd1
 
 31. Zelfs Je Naam Is Mooi
     Artiest: Henk Westbroek
     Toegevoegd door: theo.hendriksen
+    Genre: nederpop, hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851d97bdad175f11f82f2588a82
 
 32. Raving Beats (feat. Gin Dutch) - Radio Mix
     Artiest: Paul Elstak
     Toegevoegd door: florissimmelink
+    Genre: happy hardcore, gabber
     Album Cover: https://i.scdn.co/image/ab67616d00004851959130a8346cd4b9e1202d77
 
 33. Vieze Dingen
     Artiest: Russo
     Toegevoegd door: tomasog.05
+    Genre: hollands, nederpop
     Album Cover: https://i.scdn.co/image/ab67616d00004851aebba760502740f4d440cd2a
 
 34. Je Gaat Maar Één Keer Dood
     Artiest: Frank Van Etten
     Toegevoegd door: tomasog.05
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851eb3503f2bf02e7bd43239134
 
 35. Muziek
     Artiest: Snelle
     Toegevoegd door: theo.hendriksen
+    Genre: nederpop, hollands
     Album Cover: https://i.scdn.co/image/ab67616d000048519db86de3189dadb366638b37
 
 36. 3 Gouden Sterren - Ajax Amsterdam
     Artiest: Godenzonen
     Toegevoegd door: florissimmelink
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851ed29d733d1d8881c28ff5faa
 
 37. Mona Lisa
     Artiest: Robert van Hemert
     Toegevoegd door: tomasog.05
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d000048519e39b1fe40c60722975e482b
 
 38. Ik Spaar Geen Centen
     Artiest: Mart Hoogkamer
     Toegevoegd door: theo.hendriksen
+    Genre: hollands, nederpop
     Album Cover: https://i.scdn.co/image/ab67616d00004851f74ce6d80c43ed8139086a90
 
 39. Mooie Blauwe Ogen
     Artiest: Django Wagner
     Toegevoegd door: tomasog.05
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851ec51bacd9d9d4622b3569c42
 
 40. Ich Liebe Dich
     Artiest: DJEZJA
     Toegevoegd door: florissimmelink
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d00004851e646256d449ba4d50e620fa1
 
 41. M'n Favoriet
     Artiest: RAYMON HERMANS
     Toegevoegd door: tomasog.05
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d000048518108aaced4871543058251a4
 
 42. Kleine Vogel
     Artiest: Senna
     Toegevoegd door: theo.hendriksen
+    Genre: hollands
     Album Cover: https://i.scdn.co/image/ab67616d000048514bc1b1ed39d0d6019d0e8315
 
 43. Krantenwijk
     Artiest: Lil Kleine
     Toegevoegd door: tomasog.05
+    Genre: Pop
     Album Cover: https://i.scdn.co/image/ab67616d0000485162b2bbe9b5db0c962256e2c6
 
 44. Beetje Van Mij
     Artiest: Antoon
     Toegevoegd door: florissimmelink
+    Genre: nederpop, hollands
     Album Cover: https://i.scdn.co/image/ab67616d00004851dd294a43bfac4cdbe071985b
 
 45. So Many Times
     Artiest: Gadjo
     Toegevoegd door: Niels
+    Genre: house
     Album Cover: https://i.scdn.co/image/ab67616d00004851e24c74fea69417835efe0507
 
 46. What Does It Take
     Artiest: Cody Wong
     Toegevoegd door: theo.hendriksen
+    Genre: rally house, house
     Album Cover: https://i.scdn.co/image/ab67616d00004851e1e754972f60d9b1df486502
 
 47. Palette
     Artiest: Didier Armeni
     Toegevoegd door: tomasog.05
+    Genre: rally house, house
     Album Cover: https://i.scdn.co/image/ab67616d00004851306157df2c1249821b64b178
 
 48. Too Much For Me
     Artiest: SELKER
     Toegevoegd door: florissimmelink
+    Genre: house
     Album Cover: https://i.scdn.co/image/ab67616d00004851666c8606125eaa9937ff031f
 
 49. The Chain - 2004 Remaster
     Artiest: Fleetwood Mac
     Toegevoegd door: Niels
+    Genre: classic rock, yacht rock
     Album Cover: https://i.scdn.co/image/ab67616d00004851e52a59a28efa4773dd2bfe1b
 
 50. Uptown Girl
     Artiest: Billy Joel
     Toegevoegd door: theo.hendriksen
+    Genre: soft rock
     Album Cover: https://i.scdn.co/image/ab67616d00004851814cbc4746358a25c84c62e7
 
