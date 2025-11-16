@@ -32,7 +32,7 @@ ALLE NUMMERS:
  4. Ben Je Morgen Vrij?
     Artiest: Bankzitters
     Toegevoegd door: theo.hendriksen
-    Genre: Pop
+    Genre: nederpop
     Album Cover: https://i.scdn.co/image/ab67616d00004851a1e4d901b801da42ae252a9f
 
  5. Thrillseeka - Hard Techno Mix
@@ -50,7 +50,7 @@ ALLE NUMMERS:
  7. MONTAGEM VOZES INDICADOR
     Artiest: heapper
     Toegevoegd door: theo.hendriksen
-    Genre: Pop
+    Genre: phonk, brazilian phonk
     Album Cover: https://i.scdn.co/image/ab67616d00004851d5ebd2907ff71e83977e6fd0
 
  8. The Baddest
@@ -80,7 +80,7 @@ ALLE NUMMERS:
 12. Sweet Disposition
     Artiest: The Temper Trap
     Toegevoegd door: theo.hendriksen
-    Genre: Pop
+    Genre: tropical house
     Album Cover: https://i.scdn.co/image/ab67616d00004851f18e44d02651b7ded04534c7
 
 13. Dansvloerkiller
@@ -152,7 +152,7 @@ ALLE NUMMERS:
 24. Gbona
     Artiest: Burna Boy
     Toegevoegd door: theo.hendriksen
-    Genre: Pop
+    Genre: afrobeats, afrobeat
     Album Cover: https://i.scdn.co/image/ab67616d0000485112b3f64407f94147473b7a5f
 
 25. Ride Or Die
@@ -176,7 +176,7 @@ ALLE NUMMERS:
 28. Voorbestemd
     Artiest: LUNA
     Toegevoegd door: theo.hendriksen
-    Genre: Pop
+    Genre: nederpop
     Album Cover: https://i.scdn.co/image/ab67616d000048512f635f3e08770d0114c369b3
 
 29. M'n Favoriet - Hardstyle Remix
@@ -206,13 +206,13 @@ ALLE NUMMERS:
 33. Aria Math Hardstyle
     Artiest: Mqx
     Toegevoegd door: florissimmelink
-    Genre: Pop
+    Genre: hardstyle
     Album Cover: https://i.scdn.co/image/ab67616d0000485106258215996823a8e09f75c6
 
 34. Thrillseeka - Original mix
     Artiest: The Stunned Guys
     Toegevoegd door: Niels
-    Genre: Pop
+    Genre: gabber, hardcore
     Album Cover: https://i.scdn.co/image/ab67616d000048510d4222a4a31932d5f5299b16
 
 35. What Does It Take
@@ -224,7 +224,7 @@ ALLE NUMMERS:
 36. Boy's Interface - Dark Headz Refix
     Artiest: DJ Rob
     Toegevoegd door: tomasog.05
-    Genre: Pop
+    Genre: gabber, happy hardcore
     Album Cover: https://i.scdn.co/image/ab67616d0000485151399fe144b4e20e9ccd02c6
 
 37. Hoe hou ik dit vast
@@ -248,25 +248,25 @@ ALLE NUMMERS:
 40. Nog Even Blijven
     Artiest: Douwe Bob
     Toegevoegd door: theo.hendriksen
-    Genre: Pop
+    Genre: nederpop
     Album Cover: https://i.scdn.co/image/ab67616d00004851b32552acc7ddc0f0876e3ff4
 
 41. How Bizarre
     Artiest: Pat B
     Toegevoegd door: tomasog.05
-    Genre: Pop
+    Genre: hardstyle, hardcore techno
     Album Cover: https://i.scdn.co/image/ab67616d00004851eed8060b55541e790907ebe9
 
 42. Wakker Worden!
     Artiest: Gezellige Uptempo
     Toegevoegd door: Niels
-    Genre: Pop
+    Genre: frenchcore, hardcore
     Album Cover: https://i.scdn.co/image/ab67616d00004851e8658f354a65adf1b4b6eb11
 
 43. Braincracking - Nosferatu Remix
     Artiest: Neophyte
     Toegevoegd door: tomasog.05
-    Genre: Pop
+    Genre: gabber, hardcore
     Album Cover: https://i.scdn.co/image/ab67616d000048515b69e6de5186a86c594f0512
 
 44. Ammaol Theo's
@@ -278,13 +278,13 @@ ALLE NUMMERS:
 45. Skyfall
     Artiest: Adele
     Toegevoegd door: florissimmelink
-    Genre: Pop
+    Genre: soft pop
     Album Cover: https://i.scdn.co/image/ab67616d000048512737be35cc5245eef495be90
 
 46. Forever Young
     Artiest: Alphaville
     Toegevoegd door: Niels
-    Genre: Pop
+    Genre: synthpop
     Album Cover: https://i.scdn.co/image/ab67616d00004851b9c4979446c4d39bc08e9503
 
 47. Viva La Vida
@@ -302,12 +302,12 @@ ALLE NUMMERS:
 49. Eleanor Rigby - Remastered 2009
     Artiest: The Beatles
     Toegevoegd door: florissimmelink
-    Genre: Pop
+    Genre: classic rock, psychedelic rock
     Album Cover: https://i.scdn.co/image/ab67616d0000485128b8b9b46428896e6491e97a
 
 50. Tainted Love
     Artiest: Soft Cell
     Toegevoegd door: Niels
-    Genre: Pop
+    Genre: synthpop, new wave
     Album Cover: https://i.scdn.co/image/ab67616d0000485149c982dae436bac27c336f45
 

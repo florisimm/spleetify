@@ -58,7 +58,7 @@ export default function Home({ goAnalyse, goLeaderboard, goSongLeaderboard }) {
           Jullie Blend-analyses
         </h2>
         <p style={{ color: "#b3b3b3", marginTop: 8 }}>
-          Voor jou en je vrienden. Bekijk per dag wie wat heeft toegevoegd,
+          Voor jou en je vrienden. Bekijk per dag de blend,
           volg trends en ontdek jullie meest iconische tracks.
         </p>
         <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
@@ -110,7 +110,7 @@ export default function Home({ goAnalyse, goLeaderboard, goSongLeaderboard }) {
           </div>
           <div style={cardActions}>
             <button style={miniBtn} onClick={goAnalyse}>
-              Open analyse
+              Open laatste blend
             </button>
           </div>
         </div>
